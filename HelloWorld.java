@@ -1,3 +1,10 @@
+/* 
+dir1                                                                                                                                                                            
+ dir12                                                                                                                                                                          
+  s1.png3                                                                                                                                                                       
+  dir3333                                                                                                                                                                       
+len=32
+*/
 import java.util.*;
 import java.io.File;
 public class HelloWorld{
