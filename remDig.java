@@ -1,3 +1,4 @@
+// Question 1.
 import java.lang.Math; // header stuff MUST go above the first class
 
 // our main class becomes a file but the main method is still found
