@@ -10,9 +10,7 @@ public class num
   }
 
   public static int solution1(int x){
-    if(x<11 && x>1000000000){//if the input is out of range
-      return -1;
-    }
+
     String y = String.valueOf(x);//convert int to string
     int max = 0;
     char compare = y.charAt(0);
